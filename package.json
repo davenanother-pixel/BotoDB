@@ -1,0 +1,19 @@
+{
+  "name": "botodb",
+  "version": "1.0.0",
+  "description": "Mini-script driven database framework for websites and scripts",
+  "main": "framework.js",
+  "bin": {
+    "botodb": "run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davenanother-pixel/BotoDB.git"
+  },
+  "keywords": ["database","framework","mini-script","BotoDB"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^22.1.0"
+  }
+}
