@@ -36,7 +36,7 @@
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/BotoDB.git
+git clone https://github.com/davenanother-pixel/BotoDB.git
 cd BotoDB
 Install dependencies (Node.js is required):
 
